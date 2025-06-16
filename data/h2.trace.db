@@ -1,0 +1,4 @@
+2025-06-16 20:58:10.434987+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "CAR" nicht gefunden
+Table "CAR" not found; SQL statement:
+DROP TABLE CAR [42102-224]
